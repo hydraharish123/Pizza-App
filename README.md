@@ -1,3 +1,25 @@
+# Fast React Pizza Co.
+
+Welcome to **Fast React Pizza Co.** – a simple React app that showcases a menu of delicious pizzas! This app allows you to browse a variety of pizzas, and it's designed to provide a seamless and responsive experience. Perfect for anyone craving a pizza in a flash!
+
+## Features
+
+- **Pizza Menu**: Displays a selection of 6 different pizza items.
+- **Interactive UI**: Clean and user-friendly interface built using React.
+- **Responsive Design**: Works on mobile, tablet, and desktop devices.
+
+## Technologies Used
+
+- **React**: For building the UI and handling the state of the app.
+- **CSS**: For styling the components and layout.
+
+## Installation
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/fast-react-pizza-co.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
